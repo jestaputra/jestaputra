@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Jesta or Justin
 - 👀 I’m interested in Programing and spesific in Front-end
 - 🌱 I’m currently learning React, Tailwind, Firebase, UI/UX, and others about Front-end
-- 💞️ I’m want to collaborate with a Back-end🔥
+- 💞️ I want to collaborate with a Back-end🔥
 - 📫 you can reach me in Ig: Jestaa._
 - 👋 He/Him
-- 🦇 i want to be a Batman😁
 
 <!---
 jestaputra/jestaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
